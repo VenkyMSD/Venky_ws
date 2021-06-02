@@ -12,3 +12,4 @@ roslaunch venky_amcl amcl_venky.launch
 
 T3:source devel/setup.bash
 roslaunch turtlebot_rviz_launchers view_navigation.launch
+
